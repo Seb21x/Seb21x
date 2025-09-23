@@ -8,4 +8,5 @@
 - Discord developer tools
 ### ⚡ Skills:
 - Python, flask, PyTorch, fastapi, C/C++, Deep Learning, LLMs, full-stack AI apps, basic js
-- 📫 How to reach me: Email: dawidowski.seba@gmail.com
+### 📫 How to reach me: 
+- Email: dawidowski.seba@gmail.com
