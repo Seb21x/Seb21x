@@ -4,6 +4,7 @@
 - discord bot for gradient club that will use our own LLM in the future
 - web api for photo enhancing
 - 2D unity game
+- Huawei Tech Arena Poland
 ### 🌱 I’m currently learning 
 - Machine Learning Engineering
 - Discord developer tools
