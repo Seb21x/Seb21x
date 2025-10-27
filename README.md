@@ -10,7 +10,7 @@
 - Discord developer tools
 - Unity
 ### ⚡ Skills:
-Languages: Python, C/C++, PHP
+Languages: Python, C/C++
 Frameworks: Docker, Flask, FastAPI, PyTorch, Hugging Face Transformers, SQLAlchemy
 Domains: Deep Learning, LLMs, AI-driven web apps
 Other: Basic web frontend (HTML/CSS/JS)
