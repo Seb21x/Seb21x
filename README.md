@@ -10,9 +10,9 @@
 - Discord developer tools
 - Unity
 ### ⚡ Skills:
-Languages: Python, C/C++
-Frameworks: Docker, Flask, FastAPI, PyTorch, Hugging Face Transformers, SQLAlchemy
-Domains: Deep Learning, LLMs, AI-driven web apps
-Other: Basic web frontend (HTML/CSS/JS)
+- Languages: Python, C/C++
+- Frameworks: Docker, Flask, FastAPI, PyTorch, Hugging Face Transformers, SQLAlchemy
+- Domains: Deep Learning, LLMs, AI-driven web apps
+- Other: Basic web frontend (HTML/CSS/JS)
 ### 📫 How to reach me: 
 - Email: dawidowski.seba@gmail.com
